@@ -1,4 +1,4 @@
-#Trendyol Front-End Bootcamp - Final Project: Spider Solitaire Game
+# Trendyol Front-End Bootcamp - Final Project: Spider Solitaire Game
 ### About Project
 #### In this brochure, there is the code of the spider solitaire game known and played by everyone, made with react. This project is also the final homework of Trendyol Bootcamp. In this project, Lodash library in JavaScript and its methods are used.
 
