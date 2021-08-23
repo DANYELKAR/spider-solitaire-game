@@ -1,7 +1,7 @@
 # Trendyol Front-End Bootcamp - Final Project: Spider Solitaire Game
 ### About Project
 #### In this brochure, there is the code of the spider solitaire game known and played by everyone, made with react. This project is also the final homework of Trendyol Bootcamp. In this project, Lodash library in JavaScript and its methods are used.
-#### In the game, we have a timer that starts automatically and a steps variable that keeps track of each card movement.When the player brings 13 cards in order, they are completed and automatically placed on the top area and add 13*5 = 65 points to their score (each card is based on 5 points.)
+#### In the game, we have a timer that starts automatically and a steps variable that keeps track of each card movement.When the player brings 13 cards in order, they are completed and automatically placed on the top area and add 13*5 = 65 points to their score (each card is based on 5 points.) also there should be no free space for the user to draw new cards
 
 ### How to install
 - clone project
